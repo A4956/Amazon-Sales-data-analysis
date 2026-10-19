@@ -1,0 +1,301 @@
+customer_id,first_name,last_name,email,city,state,signup_date,customer_segment,is_active
+1,Kabir,Reddy,customer001@example.com,Bengaluru,Karnataka,2024-01-26,Regular,Yes
+2,Sahil,Khan,customer002@example.com,Lucknow,Uttar Pradesh,2024-03-30,New,Yes
+3,Dev,Gupta,customer003@example.com,New Delhi,Delhi,2024-08-26,Regular,No
+4,Sahil,Iyer,customer004@example.com,New Delhi,Delhi,2025-04-04,Regular,No
+5,Arjun,Reddy,customer005@example.com,Warangal,Telangana,2024-10-11,New,Yes
+6,Meera,Pillai,customer006@example.com,Surat,Gujarat,2024-04-09,Loyal,Yes
+7,Priya,Chatterjee,customer007@example.com,Jodhpur,Rajasthan,2025-07-03,New,No
+8,Meera,Gupta,customer008@example.com,Kochi,Kerala,2026-06-25,New,Yes
+9,Isha,Das,customer009@example.com,New Delhi,Delhi,2026-03-02,New,No
+10,Meera,Patel,customer010@example.com,Coimbatore,Tamil Nadu,2025-04-09,Loyal,Yes
+11,Rahul,Gupta,customer011@example.com,Madurai,Tamil Nadu,2025-12-19,Regular,Yes
+12,Aditya,Iyer,customer012@example.com,Nagpur,Maharashtra,2025-04-18,Regular,No
+13,Aditi,Verma,customer013@example.com,Howrah,West Bengal,2024-08-22,At Risk,No
+14,Sahil,Chatterjee,customer014@example.com,Mangaluru,Karnataka,2024-08-04,Loyal,Yes
+15,Karan,Patel,customer015@example.com,Jodhpur,Rajasthan,2025-02-09,Regular,Yes
+16,Kabir,Mehta,customer016@example.com,Noida,Uttar Pradesh,2025-07-05,At Risk,No
+17,Arjun,Nair,customer017@example.com,Warangal,Telangana,2024-08-12,New,Yes
+18,Sneha,Verma,customer018@example.com,Mangaluru,Karnataka,2024-06-05,At Risk,Yes
+19,Riya,Roy,customer019@example.com,Vadodara,Gujarat,2025-01-25,Loyal,Yes
+20,Tara,Verma,customer020@example.com,Mysuru,Karnataka,2025-11-29,Loyal,Yes
+21,Sneha,Roy,customer021@example.com,Chennai,Tamil Nadu,2025-03-21,Loyal,Yes
+22,Priya,Pillai,customer022@example.com,Noida,Uttar Pradesh,2026-07-23,Loyal,Yes
+23,Sneha,Nair,customer023@example.com,Nagpur,Maharashtra,2025-01-17,New,No
+24,Priya,Chatterjee,customer024@example.com,Jodhpur,Rajasthan,2024-01-20,Loyal,Yes
+25,Sahil,Das,customer025@example.com,Kolkata,West Bengal,2024-09-03,At Risk,Yes
+26,Arjun,Patel,customer026@example.com,Noida,Uttar Pradesh,2026-02-23,At Risk,Yes
+27,Riya,Khan,customer027@example.com,Chennai,Tamil Nadu,2025-06-24,Regular,No
+28,Meera,Roy,customer028@example.com,Vadodara,Gujarat,2025-11-18,At Risk,Yes
+29,Rahul,Singh,customer029@example.com,New Delhi,Delhi,2024-08-18,Regular,Yes
+30,Aditi,Reddy,customer030@example.com,Kolkata,West Bengal,2024-03-13,New,No
+31,Ananya,Iyer,customer031@example.com,Mangaluru,Karnataka,2025-06-10,At Risk,Yes
+32,Sahil,Gupta,customer032@example.com,Kanpur,Uttar Pradesh,2024-05-15,Regular,No
+33,Priya,Das,customer033@example.com,Vadodara,Gujarat,2024-07-13,At Risk,No
+34,Karan,Pillai,customer034@example.com,Vadodara,Gujarat,2025-02-24,New,Yes
+35,Vivaan,Verma,customer035@example.com,Kolkata,West Bengal,2025-02-16,Regular,Yes
+36,Karan,Patel,customer036@example.com,Dwarka,Delhi,2025-07-03,Regular,No
+37,Rahul,Roy,customer037@example.com,Udaipur,Rajasthan,2024-09-12,New,Yes
+38,Aarav,Das,customer038@example.com,Lucknow,Uttar Pradesh,2026-05-06,Regular,No
+39,Rohan,Pillai,customer039@example.com,Jodhpur,Rajasthan,2025-05-07,New,Yes
+40,Aditya,Iyer,customer040@example.com,Surat,Gujarat,2024-01-03,Loyal,No
+41,Nisha,Patel,customer041@example.com,Lucknow,Uttar Pradesh,2025-11-08,Loyal,Yes
+42,Tara,Sharma,customer042@example.com,Durgapur,West Bengal,2025-08-16,Loyal,Yes
+43,Nisha,Nair,customer043@example.com,Durgapur,West Bengal,2025-08-21,Regular,Yes
+44,Sneha,Das,customer044@example.com,Noida,Uttar Pradesh,2024-03-23,New,Yes
+45,Sahil,Reddy,customer045@example.com,Vadodara,Gujarat,2024-05-02,New,Yes
+46,Sahil,Gupta,customer046@example.com,Vadodara,Gujarat,2025-11-04,Loyal,No
+47,Vivaan,Reddy,customer047@example.com,Dwarka,Delhi,2025-11-16,At Risk,Yes
+48,Vivaan,Chatterjee,customer048@example.com,Chennai,Tamil Nadu,2025-04-13,New,No
+49,Priya,Das,customer049@example.com,Thrissur,Kerala,2025-07-30,Regular,No
+50,Rahul,Chatterjee,customer050@example.com,Mumbai,Maharashtra,2024-12-23,Loyal,No
+51,Tara,Mehta,customer051@example.com,Pune,Maharashtra,2025-03-24,New,No
+52,Arjun,Iyer,customer052@example.com,Bengaluru,Karnataka,2026-06-18,New,Yes
+53,Riya,Reddy,customer053@example.com,Madurai,Tamil Nadu,2024-10-15,Loyal,Yes
+54,Nisha,Iyer,customer054@example.com,Chennai,Tamil Nadu,2025-06-01,New,No
+55,Aarav,Singh,customer055@example.com,Chennai,Tamil Nadu,2024-02-15,Loyal,Yes
+56,Pooja,Nair,customer056@example.com,Jaipur,Rajasthan,2025-07-18,New,Yes
+57,Aditi,Pillai,customer057@example.com,Pune,Maharashtra,2025-07-12,Regular,No
+58,Isha,Singh,customer058@example.com,Mumbai,Maharashtra,2024-02-12,Loyal,Yes
+59,Priya,Singh,customer059@example.com,Rohini,Delhi,2025-11-13,At Risk,Yes
+60,Sneha,Verma,customer060@example.com,New Delhi,Delhi,2026-06-04,At Risk,Yes
+61,Vivaan,Verma,customer061@example.com,Pune,Maharashtra,2026-01-24,Regular,No
+62,Priya,Khan,customer062@example.com,Mumbai,Maharashtra,2026-03-17,At Risk,Yes
+63,Karan,Singh,customer063@example.com,Dwarka,Delhi,2026-04-16,Regular,Yes
+64,Rohan,Khan,customer064@example.com,Howrah,West Bengal,2025-11-06,Loyal,Yes
+65,Dev,Khan,customer065@example.com,Madurai,Tamil Nadu,2024-12-25,Loyal,Yes
+66,Kabir,Patel,customer066@example.com,Mangaluru,Karnataka,2026-06-17,Loyal,Yes
+67,Pooja,Singh,customer067@example.com,Mangaluru,Karnataka,2025-09-02,Loyal,No
+68,Priya,Khan,customer068@example.com,Thrissur,Kerala,2025-06-07,Regular,No
+69,Pooja,Sharma,customer069@example.com,Durgapur,West Bengal,2025-12-26,Regular,No
+70,Vivaan,Gupta,customer070@example.com,Surat,Gujarat,2024-03-12,New,No
+71,Pooja,Singh,customer071@example.com,Kanpur,Uttar Pradesh,2024-11-12,Loyal,Yes
+72,Aditya,Bose,customer072@example.com,Rohini,Delhi,2025-03-06,Regular,No
+73,Aarav,Iyer,customer073@example.com,Surat,Gujarat,2025-07-15,Regular,No
+74,Vivaan,Roy,customer074@example.com,Kozhikode,Kerala,2025-09-13,At Risk,Yes
+75,Sneha,Bose,customer075@example.com,Lucknow,Uttar Pradesh,2025-04-29,Loyal,No
+76,Ananya,Bose,customer076@example.com,Mysuru,Karnataka,2026-04-18,Regular,Yes
+77,Aditi,Reddy,customer077@example.com,Pune,Maharashtra,2024-01-26,New,No
+78,Sahil,Reddy,customer078@example.com,Vadodara,Gujarat,2026-06-26,At Risk,No
+79,Arjun,Bose,customer079@example.com,Vadodara,Gujarat,2024-09-06,New,Yes
+80,Sneha,Verma,customer080@example.com,Vadodara,Gujarat,2024-08-12,At Risk,Yes
+81,Priya,Roy,customer081@example.com,Lucknow,Uttar Pradesh,2024-09-12,At Risk,No
+82,Dev,Khan,customer082@example.com,Udaipur,Rajasthan,2025-09-19,At Risk,Yes
+83,Kabir,Verma,customer083@example.com,Jaipur,Rajasthan,2025-04-05,Loyal,No
+84,Karan,Das,customer084@example.com,Rohini,Delhi,2024-10-08,Loyal,Yes
+85,Vivaan,Chatterjee,customer085@example.com,Madurai,Tamil Nadu,2024-12-09,New,Yes
+86,Aditya,Mehta,customer086@example.com,Mumbai,Maharashtra,2024-08-24,Regular,Yes
+87,Vivaan,Nair,customer087@example.com,Surat,Gujarat,2025-02-21,At Risk,Yes
+88,Pooja,Khan,customer088@example.com,Rohini,Delhi,2026-05-02,New,No
+89,Meera,Iyer,customer089@example.com,Jodhpur,Rajasthan,2024-01-07,At Risk,Yes
+90,Kabir,Khan,customer090@example.com,Jodhpur,Rajasthan,2024-08-12,New,No
+91,Aditya,Mehta,customer091@example.com,Hyderabad,Telangana,2025-11-15,At Risk,Yes
+92,Aarav,Chatterjee,customer092@example.com,Kozhikode,Kerala,2025-06-30,New,Yes
+93,Karan,Patel,customer093@example.com,Ahmedabad,Gujarat,2024-05-18,Loyal,No
+94,Karan,Singh,customer094@example.com,Warangal,Telangana,2024-08-04,At Risk,No
+95,Rahul,Roy,customer095@example.com,Ahmedabad,Gujarat,2024-09-15,New,No
+96,Rahul,Verma,customer096@example.com,Rohini,Delhi,2025-10-27,New,Yes
+97,Aarav,Gupta,customer097@example.com,New Delhi,Delhi,2024-07-23,Regular,Yes
+98,Priya,Gupta,customer098@example.com,Jaipur,Rajasthan,2025-11-16,At Risk,No
+99,Riya,Gupta,customer099@example.com,Karimnagar,Telangana,2024-06-20,New,Yes
+100,Sahil,Sharma,customer100@example.com,Coimbatore,Tamil Nadu,2024-04-20,At Risk,No
+101,Sahil,Mehta,customer101@example.com,Rohini,Delhi,2024-03-18,Regular,Yes
+102,Riya,Verma,customer102@example.com,Chennai,Tamil Nadu,2026-05-20,New,No
+103,Meera,Das,customer103@example.com,Noida,Uttar Pradesh,2025-03-14,Loyal,Yes
+104,Nisha,Das,customer104@example.com,Surat,Gujarat,2026-04-22,Loyal,No
+105,Sneha,Mehta,customer105@example.com,Nagpur,Maharashtra,2025-03-21,Loyal,No
+106,Sahil,Iyer,customer106@example.com,Jodhpur,Rajasthan,2025-03-22,Regular,Yes
+107,Karan,Reddy,customer107@example.com,Coimbatore,Tamil Nadu,2026-06-21,At Risk,No
+108,Vivaan,Patel,customer108@example.com,Howrah,West Bengal,2025-05-21,Regular,No
+109,Kabir,Chatterjee,customer109@example.com,Madurai,Tamil Nadu,2024-12-14,Loyal,Yes
+110,Rahul,Reddy,customer110@example.com,Noida,Uttar Pradesh,2024-07-14,At Risk,No
+111,Ananya,Mehta,customer111@example.com,Kanpur,Uttar Pradesh,2026-02-15,At Risk,No
+112,Isha,Reddy,customer112@example.com,Howrah,West Bengal,2024-04-05,Regular,No
+113,Nisha,Nair,customer113@example.com,Thrissur,Kerala,2025-01-12,Loyal,No
+114,Meera,Mehta,customer114@example.com,Kanpur,Uttar Pradesh,2024-12-04,Loyal,No
+115,Priya,Mehta,customer115@example.com,Chennai,Tamil Nadu,2024-08-24,Loyal,Yes
+116,Sneha,Reddy,customer116@example.com,Lucknow,Uttar Pradesh,2026-02-19,At Risk,No
+117,Dev,Gupta,customer117@example.com,Kozhikode,Kerala,2026-02-17,New,Yes
+118,Meera,Patel,customer118@example.com,Coimbatore,Tamil Nadu,2024-08-20,New,Yes
+119,Aditi,Nair,customer119@example.com,Coimbatore,Tamil Nadu,2024-02-16,Regular,No
+120,Aarav,Gupta,customer120@example.com,Mysuru,Karnataka,2026-06-12,At Risk,No
+121,Sneha,Sharma,customer121@example.com,Jodhpur,Rajasthan,2024-12-14,At Risk,Yes
+122,Nisha,Das,customer122@example.com,Mangaluru,Karnataka,2025-02-14,New,Yes
+123,Sahil,Iyer,customer123@example.com,Mumbai,Maharashtra,2026-04-10,Regular,Yes
+124,Pooja,Gupta,customer124@example.com,Noida,Uttar Pradesh,2026-02-21,Regular,No
+125,Karan,Iyer,customer125@example.com,Udaipur,Rajasthan,2026-07-19,At Risk,No
+126,Aditi,Gupta,customer126@example.com,Thrissur,Kerala,2025-09-27,New,Yes
+127,Rahul,Patel,customer127@example.com,New Delhi,Delhi,2024-09-27,Regular,Yes
+128,Pooja,Roy,customer128@example.com,Nagpur,Maharashtra,2024-01-03,At Risk,No
+129,Isha,Mehta,customer129@example.com,Howrah,West Bengal,2024-08-25,At Risk,Yes
+130,Kabir,Verma,customer130@example.com,Rohini,Delhi,2026-08-04,Regular,No
+131,Ananya,Bose,customer131@example.com,Bengaluru,Karnataka,2025-07-11,Loyal,Yes
+132,Sneha,Verma,customer132@example.com,Mysuru,Karnataka,2024-03-02,Loyal,No
+133,Isha,Mehta,customer133@example.com,Mysuru,Karnataka,2025-04-24,Loyal,No
+134,Riya,Sharma,customer134@example.com,Jodhpur,Rajasthan,2024-03-23,Loyal,No
+135,Ananya,Bose,customer135@example.com,Durgapur,West Bengal,2024-04-03,New,No
+136,Sneha,Roy,customer136@example.com,Thrissur,Kerala,2024-02-11,At Risk,No
+137,Pooja,Bose,customer137@example.com,Pune,Maharashtra,2025-08-22,New,No
+138,Vivaan,Singh,customer138@example.com,Karimnagar,Telangana,2025-02-22,New,Yes
+139,Nisha,Iyer,customer139@example.com,Karimnagar,Telangana,2025-02-25,At Risk,Yes
+140,Vivaan,Iyer,customer140@example.com,Jodhpur,Rajasthan,2024-03-31,New,No
+141,Aarav,Bose,customer141@example.com,Noida,Uttar Pradesh,2026-04-24,At Risk,No
+142,Dev,Singh,customer142@example.com,Durgapur,West Bengal,2024-07-11,At Risk,No
+143,Kabir,Nair,customer143@example.com,Kolkata,West Bengal,2024-07-27,Loyal,No
+144,Aarav,Bose,customer144@example.com,Udaipur,Rajasthan,2024-05-04,Regular,Yes
+145,Aarav,Nair,customer145@example.com,Coimbatore,Tamil Nadu,2025-07-18,New,Yes
+146,Priya,Bose,customer146@example.com,Bengaluru,Karnataka,2025-04-17,At Risk,No
+147,Kabir,Khan,customer147@example.com,Kanpur,Uttar Pradesh,2025-12-23,At Risk,Yes
+148,Arjun,Khan,customer148@example.com,Jaipur,Rajasthan,2025-07-18,Regular,Yes
+149,Pooja,Singh,customer149@example.com,Madurai,Tamil Nadu,2026-03-02,Loyal,Yes
+150,Isha,Pillai,customer150@example.com,Madurai,Tamil Nadu,2026-01-13,At Risk,Yes
+151,Nisha,Singh,customer151@example.com,Jodhpur,Rajasthan,2025-07-05,At Risk,No
+152,Rohan,Mehta,customer152@example.com,Hyderabad,Telangana,2026-06-09,At Risk,Yes
+153,Vivaan,Mehta,customer153@example.com,Surat,Gujarat,2024-02-14,At Risk,No
+154,Aditi,Patel,customer154@example.com,Nagpur,Maharashtra,2025-05-22,Loyal,Yes
+155,Dev,Chatterjee,customer155@example.com,Jodhpur,Rajasthan,2024-04-12,New,Yes
+156,Arjun,Das,customer156@example.com,Surat,Gujarat,2026-06-10,Loyal,No
+157,Aditya,Bose,customer157@example.com,Kochi,Kerala,2025-12-10,Loyal,No
+158,Nisha,Pillai,customer158@example.com,Karimnagar,Telangana,2025-10-03,New,Yes
+159,Isha,Reddy,customer159@example.com,Rohini,Delhi,2025-10-08,New,No
+160,Priya,Roy,customer160@example.com,Bengaluru,Karnataka,2026-02-17,Loyal,Yes
+161,Aditi,Iyer,customer161@example.com,Howrah,West Bengal,2024-11-28,Loyal,No
+162,Dev,Khan,customer162@example.com,Nagpur,Maharashtra,2024-09-07,Regular,Yes
+163,Riya,Pillai,customer163@example.com,Pune,Maharashtra,2024-03-21,Regular,No
+164,Ananya,Roy,customer164@example.com,Thrissur,Kerala,2024-05-26,Loyal,No
+165,Aarav,Chatterjee,customer165@example.com,Coimbatore,Tamil Nadu,2025-11-13,Loyal,Yes
+166,Meera,Gupta,customer166@example.com,Mysuru,Karnataka,2025-03-28,At Risk,No
+167,Isha,Reddy,customer167@example.com,Jodhpur,Rajasthan,2026-05-15,At Risk,Yes
+168,Sahil,Singh,customer168@example.com,Rohini,Delhi,2025-01-25,Loyal,No
+169,Aditya,Iyer,customer169@example.com,Kolkata,West Bengal,2026-04-29,New,No
+170,Ananya,Gupta,customer170@example.com,Coimbatore,Tamil Nadu,2026-03-05,Regular,Yes
+171,Arjun,Bose,customer171@example.com,Kochi,Kerala,2024-09-13,New,No
+172,Sahil,Singh,customer172@example.com,Udaipur,Rajasthan,2024-02-04,Regular,Yes
+173,Pooja,Patel,customer173@example.com,Chennai,Tamil Nadu,2024-11-30,Regular,No
+174,Kabir,Pillai,customer174@example.com,Lucknow,Uttar Pradesh,2025-05-28,Loyal,No
+175,Vivaan,Verma,customer175@example.com,Chennai,Tamil Nadu,2026-02-03,At Risk,Yes
+176,Ananya,Pillai,customer176@example.com,Nagpur,Maharashtra,2026-02-11,At Risk,No
+177,Aditya,Sharma,customer177@example.com,Mysuru,Karnataka,2026-03-20,New,No
+178,Kabir,Gupta,customer178@example.com,Warangal,Telangana,2025-11-19,Loyal,Yes
+179,Aarav,Gupta,customer179@example.com,Rohini,Delhi,2025-04-27,Loyal,Yes
+180,Karan,Chatterjee,customer180@example.com,Mangaluru,Karnataka,2025-10-12,Loyal,No
+181,Aditi,Sharma,customer181@example.com,Mysuru,Karnataka,2024-05-23,At Risk,Yes
+182,Tara,Patel,customer182@example.com,Mysuru,Karnataka,2024-08-28,At Risk,No
+183,Sahil,Mehta,customer183@example.com,Noida,Uttar Pradesh,2025-03-05,Regular,No
+184,Nisha,Gupta,customer184@example.com,Mysuru,Karnataka,2026-05-03,Loyal,Yes
+185,Karan,Roy,customer185@example.com,Hyderabad,Telangana,2024-08-10,Loyal,Yes
+186,Meera,Sharma,customer186@example.com,Warangal,Telangana,2025-07-11,Loyal,Yes
+187,Karan,Das,customer187@example.com,Mangaluru,Karnataka,2026-05-18,Regular,Yes
+188,Vivaan,Reddy,customer188@example.com,Kolkata,West Bengal,2026-03-16,Regular,Yes
+189,Sahil,Reddy,customer189@example.com,Lucknow,Uttar Pradesh,2024-07-31,Loyal,Yes
+190,Kabir,Pillai,customer190@example.com,Kochi,Kerala,2024-01-03,Regular,No
+191,Aarav,Patel,customer191@example.com,Mumbai,Maharashtra,2024-04-22,Loyal,Yes
+192,Aarav,Patel,customer192@example.com,Kozhikode,Kerala,2024-11-27,New,Yes
+193,Priya,Mehta,customer193@example.com,Ahmedabad,Gujarat,2025-06-22,At Risk,No
+194,Sahil,Das,customer194@example.com,Warangal,Telangana,2025-06-09,Regular,Yes
+195,Karan,Bose,customer195@example.com,Lucknow,Uttar Pradesh,2024-11-04,New,No
+196,Priya,Roy,customer196@example.com,Vadodara,Gujarat,2025-03-12,At Risk,Yes
+197,Riya,Patel,customer197@example.com,Bengaluru,Karnataka,2024-11-25,Regular,No
+198,Sahil,Nair,customer198@example.com,Thrissur,Kerala,2025-10-10,Loyal,No
+199,Isha,Roy,customer199@example.com,Thrissur,Kerala,2025-06-27,At Risk,Yes
+200,Tara,Mehta,customer200@example.com,Bengaluru,Karnataka,2026-05-23,At Risk,No
+201,Vivaan,Pillai,customer201@example.com,Dwarka,Delhi,2025-02-27,At Risk,No
+202,Pooja,Singh,customer202@example.com,Mangaluru,Karnataka,2024-11-16,Loyal,No
+203,Nisha,Das,customer203@example.com,Mumbai,Maharashtra,2025-12-04,New,Yes
+204,Meera,Verma,customer204@example.com,Ahmedabad,Gujarat,2024-04-08,New,No
+205,Meera,Pillai,customer205@example.com,Mangaluru,Karnataka,2025-02-24,At Risk,Yes
+206,Isha,Singh,customer206@example.com,Chennai,Tamil Nadu,2025-09-06,Regular,Yes
+207,Priya,Singh,customer207@example.com,Udaipur,Rajasthan,2024-08-17,Loyal,Yes
+208,Ananya,Verma,customer208@example.com,Coimbatore,Tamil Nadu,2025-08-10,New,No
+209,Kabir,Mehta,customer209@example.com,Howrah,West Bengal,2024-07-03,Loyal,No
+210,Arjun,Gupta,customer210@example.com,Durgapur,West Bengal,2024-07-04,At Risk,Yes
+211,Aarav,Das,customer211@example.com,Nagpur,Maharashtra,2026-01-28,Regular,No
+212,Vivaan,Patel,customer212@example.com,Surat,Gujarat,2025-04-09,Loyal,No
+213,Rahul,Chatterjee,customer213@example.com,Kochi,Kerala,2025-09-02,Regular,Yes
+214,Rahul,Iyer,customer214@example.com,Kozhikode,Kerala,2024-02-20,At Risk,No
+215,Pooja,Iyer,customer215@example.com,Kochi,Kerala,2025-03-28,New,No
+216,Isha,Bose,customer216@example.com,Vadodara,Gujarat,2024-04-23,At Risk,No
+217,Aditya,Gupta,customer217@example.com,Kolkata,West Bengal,2024-08-13,New,Yes
+218,Arjun,Verma,customer218@example.com,Coimbatore,Tamil Nadu,2024-08-04,Loyal,No
+219,Nisha,Mehta,customer219@example.com,Mysuru,Karnataka,2024-01-08,Regular,Yes
+220,Ananya,Nair,customer220@example.com,Vadodara,Gujarat,2025-06-29,Loyal,Yes
+221,Aditi,Khan,customer221@example.com,Ahmedabad,Gujarat,2026-06-01,At Risk,Yes
+222,Pooja,Gupta,customer222@example.com,Warangal,Telangana,2025-08-12,At Risk,No
+223,Aarav,Singh,customer223@example.com,Bengaluru,Karnataka,2025-02-18,At Risk,No
+224,Priya,Reddy,customer224@example.com,Mysuru,Karnataka,2025-03-23,At Risk,Yes
+225,Isha,Mehta,customer225@example.com,Surat,Gujarat,2026-06-10,Regular,No
+226,Dev,Bose,customer226@example.com,Mumbai,Maharashtra,2024-03-19,Regular,No
+227,Arjun,Reddy,customer227@example.com,Hyderabad,Telangana,2026-01-14,Regular,No
+228,Riya,Patel,customer228@example.com,Rohini,Delhi,2024-06-26,New,Yes
+229,Sahil,Verma,customer229@example.com,Udaipur,Rajasthan,2025-04-20,At Risk,No
+230,Karan,Das,customer230@example.com,Warangal,Telangana,2024-06-03,At Risk,No
+231,Aditi,Singh,customer231@example.com,Madurai,Tamil Nadu,2025-08-28,New,No
+232,Aditi,Sharma,customer232@example.com,Jodhpur,Rajasthan,2025-04-07,Loyal,Yes
+233,Riya,Nair,customer233@example.com,Mysuru,Karnataka,2025-09-21,At Risk,Yes
+234,Sahil,Bose,customer234@example.com,Jaipur,Rajasthan,2026-07-19,Loyal,No
+235,Aditi,Roy,customer235@example.com,Lucknow,Uttar Pradesh,2024-06-03,Loyal,Yes
+236,Sneha,Sharma,customer236@example.com,Lucknow,Uttar Pradesh,2025-10-23,At Risk,No
+237,Riya,Patel,customer237@example.com,Kanpur,Uttar Pradesh,2025-06-19,Loyal,No
+238,Vivaan,Bose,customer238@example.com,Vadodara,Gujarat,2025-02-22,New,No
+239,Priya,Nair,customer239@example.com,Mangaluru,Karnataka,2024-12-03,At Risk,No
+240,Riya,Pillai,customer240@example.com,Chennai,Tamil Nadu,2026-01-11,Loyal,Yes
+241,Arjun,Chatterjee,customer241@example.com,Kozhikode,Kerala,2025-11-10,Loyal,No
+242,Rahul,Iyer,customer242@example.com,Nagpur,Maharashtra,2025-09-01,At Risk,No
+243,Dev,Das,customer243@example.com,Nagpur,Maharashtra,2025-11-17,At Risk,No
+244,Isha,Patel,customer244@example.com,Kolkata,West Bengal,2025-01-06,Loyal,No
+245,Arjun,Patel,customer245@example.com,New Delhi,Delhi,2024-08-19,Loyal,Yes
+246,Tara,Pillai,customer246@example.com,Noida,Uttar Pradesh,2026-02-28,New,No
+247,Riya,Khan,customer247@example.com,Kochi,Kerala,2024-05-14,Regular,Yes
+248,Sneha,Mehta,customer248@example.com,Kozhikode,Kerala,2026-04-08,New,No
+249,Ananya,Roy,customer249@example.com,Karimnagar,Telangana,2025-11-23,Loyal,No
+250,Ananya,Iyer,customer250@example.com,Dwarka,Delhi,2025-06-30,Regular,No
+251,Karan,Verma,customer251@example.com,Kozhikode,Kerala,2025-03-27,At Risk,No
+252,Rohan,Verma,customer252@example.com,Nagpur,Maharashtra,2026-04-16,Regular,No
+253,Nisha,Pillai,customer253@example.com,Howrah,West Bengal,2025-10-18,New,Yes
+254,Sneha,Iyer,customer254@example.com,Coimbatore,Tamil Nadu,2024-03-26,Regular,No
+255,Ananya,Pillai,customer255@example.com,Mysuru,Karnataka,2026-07-21,Loyal,Yes
+256,Aditya,Nair,customer256@example.com,Surat,Gujarat,2024-02-24,Regular,No
+257,Ananya,Sharma,customer257@example.com,Mysuru,Karnataka,2025-01-18,New,No
+258,Aditi,Iyer,customer258@example.com,Pune,Maharashtra,2024-05-20,Regular,No
+259,Aarav,Chatterjee,customer259@example.com,Jaipur,Rajasthan,2025-09-22,New,No
+260,Arjun,Nair,customer260@example.com,Rohini,Delhi,2026-05-05,At Risk,Yes
+261,Isha,Das,customer261@example.com,Chennai,Tamil Nadu,2024-08-31,Regular,No
+262,Rahul,Das,customer262@example.com,Kozhikode,Kerala,2025-04-13,New,Yes
+263,Pooja,Sharma,customer263@example.com,Nagpur,Maharashtra,2024-10-25,Loyal,Yes
+264,Sneha,Bose,customer264@example.com,Thrissur,Kerala,2025-03-02,New,No
+265,Tara,Nair,customer265@example.com,Mangaluru,Karnataka,2025-06-22,New,No
+266,Aditya,Singh,customer266@example.com,Jodhpur,Rajasthan,2024-02-14,New,No
+267,Ananya,Mehta,customer267@example.com,Mangaluru,Karnataka,2024-12-19,New,No
+268,Meera,Nair,customer268@example.com,Pune,Maharashtra,2024-02-15,Regular,No
+269,Sneha,Verma,customer269@example.com,Jaipur,Rajasthan,2025-10-08,New,No
+270,Rohan,Sharma,customer270@example.com,Kolkata,West Bengal,2024-10-27,New,No
+271,Aditya,Pillai,customer271@example.com,Madurai,Tamil Nadu,2025-06-11,At Risk,No
+272,Rohan,Iyer,customer272@example.com,Howrah,West Bengal,2026-02-10,New,No
+273,Meera,Khan,customer273@example.com,Coimbatore,Tamil Nadu,2024-05-07,At Risk,No
+274,Nisha,Mehta,customer274@example.com,Warangal,Telangana,2024-07-10,Loyal,No
+275,Pooja,Das,customer275@example.com,Mysuru,Karnataka,2026-01-14,Regular,No
+276,Rahul,Singh,customer276@example.com,Karimnagar,Telangana,2024-04-15,Loyal,No
+277,Pooja,Patel,customer277@example.com,Udaipur,Rajasthan,2025-09-09,At Risk,No
+278,Meera,Gupta,customer278@example.com,Jodhpur,Rajasthan,2024-02-13,Loyal,Yes
+279,Aditya,Singh,customer279@example.com,Mangaluru,Karnataka,2025-11-18,Regular,Yes
+280,Riya,Bose,customer280@example.com,Pune,Maharashtra,2026-05-19,New,Yes
+281,Meera,Singh,customer281@example.com,Mysuru,Karnataka,2024-08-29,New,Yes
+282,Meera,Roy,customer282@example.com,Jaipur,Rajasthan,2025-01-14,Regular,No
+283,Kabir,Reddy,customer283@example.com,Ahmedabad,Gujarat,2024-11-17,New,Yes
+284,Aditya,Chatterjee,customer284@example.com,Udaipur,Rajasthan,2025-06-14,New,No
+285,Karan,Reddy,customer285@example.com,Madurai,Tamil Nadu,2025-12-21,Loyal,No
+286,Arjun,Pillai,customer286@example.com,New Delhi,Delhi,2024-05-05,At Risk,Yes
+287,Vivaan,Bose,customer287@example.com,Jodhpur,Rajasthan,2024-03-30,New,No
+288,Sneha,Mehta,customer288@example.com,Madurai,Tamil Nadu,2026-05-21,Regular,No
+289,Priya,Reddy,customer289@example.com,Lucknow,Uttar Pradesh,2024-08-17,Regular,No
+290,Tara,Gupta,customer290@example.com,Howrah,West Bengal,2025-01-04,At Risk,Yes
+291,Rahul,Das,customer291@example.com,Kozhikode,Kerala,2026-06-24,At Risk,No
+292,Pooja,Pillai,customer292@example.com,Noida,Uttar Pradesh,2025-02-24,New,Yes
+293,Rahul,Roy,customer293@example.com,Warangal,Telangana,2025-10-19,Loyal,Yes
+294,Sahil,Patel,customer294@example.com,Lucknow,Uttar Pradesh,2025-10-17,At Risk,Yes
+295,Arjun,Iyer,customer295@example.com,Bengaluru,Karnataka,2025-06-14,Regular,No
+296,Dev,Chatterjee,customer296@example.com,Dwarka,Delhi,2024-12-20,New,No
+297,Tara,Iyer,customer297@example.com,New Delhi,Delhi,2025-10-12,Loyal,Yes
+298,Sneha,Gupta,customer298@example.com,Noida,Uttar Pradesh,2025-10-18,Regular,Yes
+299,Riya,Singh,customer299@example.com,Thrissur,Kerala,2026-01-07,New,Yes
+300,Sahil,Iyer,customer300@example.com,Mangaluru,Karnataka,2024-02-16,Regular,No

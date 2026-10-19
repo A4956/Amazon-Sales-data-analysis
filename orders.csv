@@ -1,0 +1,301 @@
+order_id,customer_id,order_date,order_status,sales_channel,shipping_fee,discount_percent,shipping_city
+1,184,2025-12-21,Delivered,Mobile App,0,15,Jaipur
+2,247,2024-12-04,Delivered,Website,99,0,Mangaluru
+3,253,2024-06-01,Returned,Website,99,20,Mysuru
+4,119,2025-04-12,Returned,Marketplace,0,10,Kolkata
+5,90,2026-06-14,Delivered,Marketplace,0,25,Warangal
+6,60,2024-04-07,Cancelled,Website,0,25,Nagpur
+7,88,2024-12-02,Delivered,Store,79,5,Mysuru
+8,176,2024-07-06,Delivered,Store,49,5,Vadodara
+9,245,2026-03-30,Delivered,Mobile App,0,0,Kolkata
+10,54,2025-03-02,Cancelled,Store,149,15,Jaipur
+11,195,2026-03-08,Delivered,Website,149,20,Pune
+12,250,2024-04-25,Cancelled,Store,0,0,Madurai
+13,161,2024-01-13,Processing,Mobile App,99,25,Karimnagar
+14,268,2025-12-05,Processing,Website,49,20,Dwarka
+15,178,2025-11-10,Shipped,Store,0,25,Noida
+16,28,2024-01-12,Shipped,Mobile App,79,25,Jodhpur
+17,85,2024-03-17,Processing,Marketplace,0,5,Chennai
+18,260,2024-08-16,Shipped,Store,49,25,New Delhi
+19,236,2025-03-30,Processing,Store,0,25,Jodhpur
+20,162,2024-05-01,Returned,Website,0,10,Ahmedabad
+21,286,2025-07-16,Delivered,Website,149,15,Thrissur
+22,156,2026-06-30,Delivered,Mobile App,99,20,Jodhpur
+23,187,2026-04-25,Delivered,Mobile App,149,10,Karimnagar
+24,243,2026-01-03,Shipped,Store,0,0,New Delhi
+25,175,2024-12-29,Cancelled,Marketplace,79,15,Karimnagar
+26,55,2024-02-16,Cancelled,Store,0,25,Ahmedabad
+27,131,2025-09-17,Delivered,Website,149,10,Dwarka
+28,98,2026-01-03,Delivered,Store,0,20,Kochi
+29,231,2025-04-13,Shipped,Mobile App,49,0,Noida
+30,25,2025-07-20,Returned,Store,79,25,Nagpur
+31,297,2024-06-26,Processing,Mobile App,0,10,Thrissur
+32,165,2025-05-31,Cancelled,Store,79,20,Dwarka
+33,204,2026-09-13,Delivered,Marketplace,49,25,Mumbai
+34,212,2025-09-08,Processing,Marketplace,149,20,Kanpur
+35,284,2025-10-09,Delivered,Mobile App,79,20,Madurai
+36,177,2026-08-01,Shipped,Mobile App,79,15,Karimnagar
+37,60,2026-02-18,Delivered,Store,79,15,Vadodara
+38,274,2024-10-19,Cancelled,Store,149,0,Lucknow
+39,13,2025-01-25,Delivered,Website,0,5,Pune
+40,129,2024-05-29,Cancelled,Marketplace,0,25,Lucknow
+41,184,2026-04-13,Delivered,Mobile App,99,20,Kanpur
+42,122,2025-06-07,Processing,Marketplace,99,20,Howrah
+43,199,2025-03-02,Returned,Marketplace,79,0,Durgapur
+44,129,2024-07-26,Shipped,Store,149,0,Karimnagar
+45,280,2026-01-26,Shipped,Mobile App,0,10,Nagpur
+46,39,2024-07-10,Returned,Website,49,0,Surat
+47,285,2024-09-27,Delivered,Marketplace,0,5,Udaipur
+48,80,2024-02-10,Delivered,Marketplace,79,0,Thrissur
+49,155,2025-05-17,Processing,Marketplace,0,25,Karimnagar
+50,113,2026-09-06,Delivered,Website,149,15,Pune
+51,279,2025-07-03,Delivered,Marketplace,0,0,Warangal
+52,185,2024-10-27,Delivered,Store,79,25,Kolkata
+53,178,2025-04-01,Delivered,Mobile App,0,20,Warangal
+54,59,2025-01-30,Delivered,Marketplace,0,15,Karimnagar
+55,261,2025-04-01,Delivered,Marketplace,99,0,Karimnagar
+56,43,2026-08-28,Delivered,Website,99,0,Rohini
+57,110,2026-06-04,Shipped,Website,0,15,Vadodara
+58,37,2026-02-03,Shipped,Website,49,20,Hyderabad
+59,45,2024-03-16,Delivered,Marketplace,79,0,Kochi
+60,133,2025-02-21,Delivered,Store,49,5,Howrah
+61,61,2025-07-01,Delivered,Website,149,20,Kochi
+62,38,2025-01-01,Returned,Website,0,25,Madurai
+63,45,2024-10-15,Processing,Store,49,10,Howrah
+64,81,2025-06-30,Delivered,Store,149,25,Kanpur
+65,74,2024-11-01,Shipped,Marketplace,0,15,Lucknow
+66,64,2024-02-12,Delivered,Store,79,15,Mysuru
+67,108,2026-02-05,Processing,Marketplace,0,10,Lucknow
+68,83,2024-07-07,Delivered,Marketplace,0,0,Nagpur
+69,291,2026-05-22,Delivered,Store,99,15,Mysuru
+70,35,2024-09-13,Delivered,Store,0,5,Nagpur
+71,121,2024-04-12,Delivered,Website,0,5,Jodhpur
+72,169,2025-09-23,Shipped,Mobile App,79,15,Warangal
+73,220,2024-06-21,Delivered,Mobile App,149,0,Surat
+74,185,2024-05-17,Shipped,Marketplace,49,10,Jodhpur
+75,157,2025-05-13,Shipped,Mobile App,99,15,Mysuru
+76,72,2026-07-01,Delivered,Marketplace,99,20,Mangaluru
+77,39,2026-07-02,Delivered,Website,149,15,Kozhikode
+78,109,2026-07-17,Delivered,Marketplace,79,15,Udaipur
+79,77,2025-01-09,Delivered,Marketplace,0,10,Noida
+80,47,2025-02-10,Delivered,Website,99,0,Thrissur
+81,85,2026-02-14,Delivered,Store,0,0,Thrissur
+82,75,2026-01-23,Processing,Marketplace,0,0,Jaipur
+83,33,2024-09-27,Delivered,Website,99,0,Kanpur
+84,199,2025-04-25,Cancelled,Website,0,20,Hyderabad
+85,267,2025-10-10,Cancelled,Marketplace,79,15,Kochi
+86,193,2025-10-31,Delivered,Website,79,5,Ahmedabad
+87,265,2025-02-19,Delivered,Marketplace,49,25,Udaipur
+88,4,2025-05-28,Cancelled,Store,0,0,Mangaluru
+89,144,2024-08-04,Delivered,Mobile App,0,15,Mangaluru
+90,118,2025-02-28,Processing,Website,49,20,Jodhpur
+91,108,2025-08-27,Delivered,Store,0,0,Kolkata
+92,294,2025-08-29,Delivered,Website,79,0,Kolkata
+93,133,2026-08-02,Delivered,Store,79,15,Durgapur
+94,146,2026-08-27,Delivered,Store,79,10,Jaipur
+95,113,2026-04-30,Delivered,Mobile App,149,15,Nagpur
+96,262,2024-09-27,Delivered,Marketplace,49,15,Kochi
+97,118,2025-01-22,Delivered,Website,0,0,Noida
+98,215,2026-04-26,Delivered,Website,0,10,Thrissur
+99,20,2026-06-17,Processing,Website,0,10,Nagpur
+100,277,2026-04-27,Delivered,Store,79,10,Hyderabad
+101,272,2025-03-15,Delivered,Store,149,25,Surat
+102,295,2024-04-10,Delivered,Marketplace,49,25,New Delhi
+103,146,2025-09-04,Cancelled,Store,0,0,Durgapur
+104,4,2025-08-14,Delivered,Website,49,20,Rohini
+105,162,2025-02-22,Delivered,Mobile App,49,20,Kozhikode
+106,134,2026-05-25,Delivered,Marketplace,79,5,Ahmedabad
+107,212,2025-07-19,Processing,Store,0,5,Noida
+108,248,2024-09-16,Returned,Marketplace,149,20,Vadodara
+109,71,2026-05-25,Cancelled,Website,99,0,Udaipur
+110,83,2024-04-12,Delivered,Store,149,5,Noida
+111,27,2024-06-13,Delivered,Website,149,0,Pune
+112,223,2024-03-31,Delivered,Mobile App,0,0,Kochi
+113,197,2026-08-11,Returned,Marketplace,99,15,Kolkata
+114,254,2025-03-25,Delivered,Marketplace,0,0,Thrissur
+115,265,2025-12-16,Delivered,Mobile App,99,0,Hyderabad
+116,1,2026-09-26,Delivered,Marketplace,149,10,Karimnagar
+117,203,2025-02-19,Shipped,Website,99,20,Bengaluru
+118,282,2024-10-18,Processing,Marketplace,0,25,Chennai
+119,100,2025-04-10,Returned,Website,0,0,Vadodara
+120,55,2025-07-26,Delivered,Marketplace,0,0,Kanpur
+121,276,2026-04-12,Processing,Marketplace,99,10,Vadodara
+122,248,2026-02-27,Delivered,Marketplace,149,10,Udaipur
+123,15,2025-05-08,Delivered,Website,49,20,Rohini
+124,118,2026-03-30,Delivered,Marketplace,79,15,Durgapur
+125,135,2024-09-11,Delivered,Store,99,20,Hyderabad
+126,284,2026-08-11,Delivered,Marketplace,0,0,Kozhikode
+127,94,2026-08-27,Processing,Mobile App,49,20,New Delhi
+128,124,2026-06-12,Delivered,Mobile App,0,25,Rohini
+129,183,2024-06-08,Processing,Website,0,20,Udaipur
+130,4,2026-02-21,Cancelled,Website,149,10,Karimnagar
+131,162,2025-05-19,Cancelled,Marketplace,49,0,Kanpur
+132,204,2024-08-15,Processing,Mobile App,0,15,Surat
+133,277,2024-02-03,Delivered,Store,149,20,Pune
+134,62,2025-12-16,Delivered,Marketplace,99,0,Durgapur
+135,108,2025-01-23,Shipped,Marketplace,0,15,Chennai
+136,281,2024-09-26,Delivered,Store,79,5,Hyderabad
+137,256,2025-03-10,Delivered,Marketplace,0,25,Surat
+138,231,2024-07-03,Shipped,Mobile App,149,0,Chennai
+139,285,2025-03-18,Cancelled,Mobile App,0,25,Pune
+140,5,2024-06-29,Delivered,Mobile App,149,20,Noida
+141,162,2026-03-15,Delivered,Marketplace,79,25,Kochi
+142,204,2024-04-11,Shipped,Website,0,25,Coimbatore
+143,50,2025-04-05,Processing,Marketplace,0,5,Noida
+144,132,2024-12-18,Delivered,Website,0,25,Kochi
+145,296,2025-08-12,Shipped,Mobile App,149,5,Warangal
+146,262,2025-05-14,Processing,Store,0,10,Kozhikode
+147,238,2025-10-08,Returned,Mobile App,99,25,Warangal
+148,293,2025-02-18,Cancelled,Website,0,0,Hyderabad
+149,161,2024-11-20,Shipped,Marketplace,79,20,Surat
+150,228,2026-03-10,Cancelled,Marketplace,99,15,Kanpur
+151,212,2024-06-20,Delivered,Website,0,20,Rohini
+152,129,2026-08-21,Processing,Website,0,0,Ahmedabad
+153,49,2024-03-06,Returned,Store,79,0,Howrah
+154,269,2026-02-22,Returned,Website,0,15,Mumbai
+155,200,2024-11-12,Delivered,Marketplace,49,20,Mumbai
+156,270,2026-05-08,Delivered,Website,99,5,Warangal
+157,240,2026-09-25,Cancelled,Marketplace,79,10,Nagpur
+158,277,2024-06-30,Shipped,Store,99,20,Kozhikode
+159,269,2025-10-17,Shipped,Marketplace,0,10,Lucknow
+160,46,2025-03-28,Delivered,Store,0,0,Chennai
+161,1,2025-06-19,Processing,Mobile App,0,5,Udaipur
+162,5,2025-12-05,Returned,Store,0,0,Surat
+163,119,2026-03-26,Delivered,Marketplace,0,10,Kanpur
+164,203,2024-09-12,Delivered,Store,149,10,Dwarka
+165,41,2025-03-08,Shipped,Marketplace,0,20,Kanpur
+166,212,2024-07-11,Cancelled,Mobile App,0,5,Mangaluru
+167,234,2025-09-24,Delivered,Store,0,5,Kolkata
+168,26,2026-09-19,Delivered,Mobile App,0,5,Chennai
+169,225,2026-01-14,Delivered,Website,0,0,Jaipur
+170,176,2025-03-06,Delivered,Store,0,10,Howrah
+171,42,2026-05-13,Processing,Mobile App,0,5,Ahmedabad
+172,279,2025-04-26,Delivered,Marketplace,149,10,Kolkata
+173,128,2025-01-29,Processing,Store,0,20,Kolkata
+174,236,2026-01-22,Processing,Mobile App,49,10,Coimbatore
+175,82,2025-10-06,Processing,Website,0,10,Chennai
+176,185,2026-06-27,Delivered,Mobile App,0,0,Surat
+177,8,2024-06-20,Processing,Website,49,25,New Delhi
+178,22,2025-08-18,Processing,Store,99,15,Pune
+179,46,2024-09-11,Delivered,Website,99,15,Karimnagar
+180,31,2024-03-02,Delivered,Mobile App,99,15,Bengaluru
+181,250,2024-08-26,Delivered,Marketplace,149,10,New Delhi
+182,194,2025-01-01,Processing,Marketplace,0,10,Udaipur
+183,151,2025-07-09,Shipped,Mobile App,79,0,Kanpur
+184,166,2026-01-19,Delivered,Mobile App,0,15,Pune
+185,152,2026-04-19,Delivered,Marketplace,49,0,Kanpur
+186,95,2026-06-23,Delivered,Marketplace,149,15,Dwarka
+187,33,2025-11-05,Returned,Store,0,15,Udaipur
+188,79,2025-09-19,Delivered,Store,99,5,Bengaluru
+189,268,2025-11-05,Delivered,Mobile App,0,25,Kolkata
+190,55,2025-05-12,Delivered,Website,79,20,Vadodara
+191,251,2025-06-22,Shipped,Marketplace,0,5,Rohini
+192,37,2024-01-14,Returned,Mobile App,99,10,Mysuru
+193,32,2025-01-04,Shipped,Store,149,5,Durgapur
+194,137,2025-06-25,Delivered,Website,149,5,Bengaluru
+195,266,2024-04-09,Delivered,Mobile App,79,10,New Delhi
+196,270,2025-11-03,Delivered,Mobile App,79,20,Kanpur
+197,55,2026-02-23,Shipped,Marketplace,99,10,Ahmedabad
+198,86,2026-03-22,Delivered,Store,79,5,Nagpur
+199,227,2026-08-13,Delivered,Marketplace,79,5,Warangal
+200,221,2026-04-25,Processing,Mobile App,79,15,Dwarka
+201,282,2026-08-06,Processing,Marketplace,49,10,Ahmedabad
+202,18,2024-10-18,Shipped,Mobile App,0,0,Chennai
+203,110,2026-05-26,Delivered,Marketplace,79,15,Noida
+204,293,2024-06-07,Delivered,Store,0,0,Pune
+205,188,2026-06-29,Shipped,Mobile App,0,25,Chennai
+206,293,2025-02-13,Shipped,Mobile App,99,0,Warangal
+207,89,2025-05-14,Cancelled,Website,79,20,Chennai
+208,296,2025-01-25,Delivered,Website,149,5,Warangal
+209,214,2026-08-10,Cancelled,Mobile App,99,20,Kochi
+210,196,2024-02-25,Delivered,Website,0,15,Kochi
+211,168,2025-05-29,Shipped,Mobile App,0,20,Surat
+212,295,2025-05-31,Delivered,Store,0,25,Ahmedabad
+213,68,2024-12-10,Delivered,Website,79,10,Chennai
+214,205,2025-05-28,Delivered,Mobile App,149,0,Udaipur
+215,102,2025-05-14,Delivered,Mobile App,79,15,Lucknow
+216,125,2024-03-14,Delivered,Store,0,20,Kochi
+217,58,2025-11-18,Delivered,Marketplace,0,0,Warangal
+218,13,2026-02-27,Delivered,Marketplace,79,25,Udaipur
+219,75,2025-03-27,Delivered,Mobile App,0,20,Hyderabad
+220,44,2024-04-25,Processing,Mobile App,79,0,Chennai
+221,176,2025-12-11,Processing,Marketplace,49,10,Howrah
+222,108,2026-01-27,Delivered,Mobile App,79,15,Madurai
+223,248,2025-09-29,Processing,Mobile App,99,20,Howrah
+224,299,2026-07-16,Shipped,Website,0,0,Howrah
+225,103,2026-03-19,Shipped,Marketplace,0,10,Kolkata
+226,199,2025-11-07,Delivered,Marketplace,149,0,Howrah
+227,198,2024-08-24,Returned,Website,0,10,Thrissur
+228,46,2024-07-09,Delivered,Store,79,20,Kolkata
+229,127,2026-08-02,Delivered,Marketplace,49,10,Mumbai
+230,178,2025-12-01,Delivered,Marketplace,0,15,Chennai
+231,132,2026-06-18,Delivered,Website,79,5,New Delhi
+232,175,2026-07-07,Delivered,Mobile App,0,20,Vadodara
+233,117,2025-03-03,Delivered,Mobile App,49,5,Kozhikode
+234,230,2025-07-09,Delivered,Mobile App,79,15,New Delhi
+235,159,2025-12-06,Processing,Mobile App,49,25,Nagpur
+236,290,2026-07-28,Delivered,Website,79,15,Bengaluru
+237,163,2026-05-09,Cancelled,Website,149,5,Surat
+238,156,2025-03-29,Processing,Marketplace,0,25,New Delhi
+239,68,2024-07-08,Delivered,Marketplace,79,15,Kochi
+240,119,2024-08-24,Shipped,Marketplace,0,20,Jaipur
+241,258,2026-05-16,Shipped,Marketplace,0,25,Surat
+242,243,2024-05-20,Delivered,Mobile App,0,10,Howrah
+243,212,2024-08-15,Processing,Mobile App,149,0,Bengaluru
+244,225,2026-06-06,Shipped,Marketplace,149,10,Dwarka
+245,208,2026-03-05,Delivered,Store,99,5,Vadodara
+246,293,2025-08-31,Delivered,Website,79,0,Jodhpur
+247,22,2026-06-17,Returned,Store,99,0,Kanpur
+248,265,2026-02-22,Shipped,Website,0,5,Jodhpur
+249,156,2026-03-03,Cancelled,Store,0,10,Madurai
+250,28,2025-12-07,Delivered,Mobile App,49,25,Jaipur
+251,257,2024-04-25,Delivered,Mobile App,49,10,Warangal
+252,13,2024-07-02,Delivered,Mobile App,49,0,Coimbatore
+253,84,2026-01-05,Processing,Website,0,20,Udaipur
+254,186,2024-03-28,Delivered,Store,99,25,Noida
+255,82,2025-01-22,Shipped,Website,149,0,Karimnagar
+256,77,2024-06-15,Cancelled,Mobile App,149,20,Howrah
+257,158,2024-11-12,Processing,Store,0,20,Mumbai
+258,68,2026-09-10,Delivered,Marketplace,0,10,Jodhpur
+259,279,2026-04-06,Delivered,Store,0,0,Thrissur
+260,244,2025-04-09,Delivered,Website,79,15,Kolkata
+261,281,2024-10-11,Shipped,Mobile App,0,0,Mumbai
+262,179,2024-02-07,Delivered,Website,99,15,Kozhikode
+263,170,2026-07-31,Delivered,Website,49,0,Nagpur
+264,146,2025-09-17,Shipped,Mobile App,49,20,Kozhikode
+265,19,2024-04-05,Processing,Marketplace,0,10,Mysuru
+266,282,2024-03-07,Delivered,Mobile App,0,20,Coimbatore
+267,270,2025-02-27,Delivered,Mobile App,79,0,Mangaluru
+268,271,2024-03-30,Delivered,Marketplace,49,15,Warangal
+269,270,2025-08-11,Returned,Marketplace,0,15,Kozhikode
+270,267,2026-01-16,Shipped,Store,149,0,Kochi
+271,149,2024-07-17,Delivered,Website,49,20,Mangaluru
+272,107,2026-03-29,Shipped,Store,49,0,Warangal
+273,287,2026-04-05,Shipped,Website,99,0,Coimbatore
+274,35,2024-11-11,Delivered,Marketplace,149,0,Mangaluru
+275,171,2024-12-15,Delivered,Website,149,0,Dwarka
+276,174,2026-08-02,Shipped,Store,149,0,Pune
+277,80,2025-10-04,Delivered,Marketplace,49,25,Vadodara
+278,29,2026-05-05,Delivered,Marketplace,79,15,Kolkata
+279,296,2025-12-02,Delivered,Marketplace,0,0,Chennai
+280,174,2025-01-19,Shipped,Mobile App,79,15,Ahmedabad
+281,60,2026-06-04,Processing,Marketplace,99,25,Karimnagar
+282,17,2024-10-05,Delivered,Store,0,5,Jodhpur
+283,111,2025-06-21,Delivered,Website,0,25,Kolkata
+284,48,2025-03-30,Delivered,Store,79,0,Dwarka
+285,248,2026-01-20,Cancelled,Marketplace,149,5,Mumbai
+286,265,2025-11-23,Returned,Mobile App,99,0,Jodhpur
+287,268,2024-04-28,Delivered,Website,99,25,Kochi
+288,171,2025-04-23,Cancelled,Website,79,25,Chennai
+289,296,2026-02-15,Delivered,Mobile App,0,0,Dwarka
+290,142,2025-06-29,Delivered,Store,99,0,Chennai
+291,81,2024-10-07,Delivered,Website,0,15,Karimnagar
+292,164,2024-10-04,Delivered,Marketplace,79,0,Mumbai
+293,160,2025-09-19,Cancelled,Store,0,0,Howrah
+294,26,2024-04-18,Delivered,Website,49,10,Nagpur
+295,229,2025-09-23,Delivered,Marketplace,149,0,Lucknow
+296,239,2025-08-04,Delivered,Store,0,10,Madurai
+297,239,2025-04-26,Delivered,Mobile App,0,25,Kozhikode
+298,187,2025-02-05,Delivered,Marketplace,149,25,Warangal
+299,250,2024-01-31,Delivered,Website,0,10,Jaipur
+300,145,2026-02-25,Delivered,Mobile App,79,0,Vadodara

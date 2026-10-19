@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,unit_price,cost_price,stock_quantity,supplier,product_status
+1,Electronics Product 001,Electronics,BrightWay,22461.41,15319.82,328,Supplier C,Discontinued
+2,Sports Product 002,Sports,BrightWay,36230.3,25486.08,232,Supplier A,Active
+3,Beauty Product 003,Beauty,UrbanLeaf,19837.73,12481.36,174,Supplier E,Active
+4,Fashion Product 004,Fashion,BluePeak,38780.54,22033.05,176,Supplier D,Active
+5,Fashion Product 005,Fashion,UrbanLeaf,23222.12,11362.31,238,Supplier A,Active
+6,Toys Product 006,Toys,BrightWay,11230.81,5456.16,484,Supplier D,Discontinued
+7,Sports Product 007,Sports,BluePeak,43324.56,33960.17,167,Supplier E,Active
+8,Sports Product 008,Sports,DailyNest,34363.91,21799.03,239,Supplier D,Active
+9,Toys Product 009,Toys,DailyNest,1139.64,911.41,234,Supplier B,Active
+10,Fashion Product 010,Fashion,DailyNest,2283.8,1265.46,451,Supplier D,Active
+11,Electronics Product 011,Electronics,BrightWay,38137.89,23242.88,372,Supplier C,Discontinued
+12,Fashion Product 012,Fashion,DailyNest,2130.43,999.02,99,Supplier C,Active
+13,Home Product 013,Home & Kitchen,DailyNest,17446.45,10758.02,143,Supplier E,Active
+14,Beauty Product 014,Beauty,BluePeak,43881.19,26141.97,173,Supplier E,Active
+15,Beauty Product 015,Beauty,DailyNest,9036.9,5768.93,20,Supplier A,Active
+16,Beauty Product 016,Beauty,DailyNest,32139.99,24023.59,233,Supplier B,Active
+17,Fashion Product 017,Fashion,CorePlus,41918.39,23803.61,315,Supplier C,Active
+18,Toys Product 018,Toys,BluePeak,31922.13,17905.84,8,Supplier C,Active
+19,Home Product 019,Home & Kitchen,BluePeak,44097.4,29367.54,460,Supplier A,Discontinued
+20,Books Product 020,Books,BluePeak,43521.44,32191.7,296,Supplier E,Active
+21,Electronics Product 021,Electronics,Aster,26299.78,13494.14,369,Supplier E,Discontinued
+22,Beauty Product 022,Beauty,DailyNest,36992.41,19961.58,485,Supplier A,Active
+23,Electronics Product 023,Electronics,CorePlus,19902.07,12039.73,353,Supplier B,Discontinued
+24,Toys Product 024,Toys,Nova,39289.39,28377.15,361,Supplier B,Active
+25,Fashion Product 025,Fashion,CorePlus,44915.71,28162.03,160,Supplier B,Discontinued
+26,Fashion Product 026,Fashion,BluePeak,24627.21,17240.8,369,Supplier C,Discontinued
+27,Sports Product 027,Sports,BrightWay,43084.41,23835.69,115,Supplier C,Active
+28,Sports Product 028,Sports,CorePlus,31091.46,19616.57,178,Supplier E,Active
+29,Books Product 029,Books,CorePlus,5571.27,3901.84,458,Supplier D,Active
+30,Beauty Product 030,Beauty,Aster,13140.61,7311.74,40,Supplier C,Discontinued
+31,Books Product 031,Books,BluePeak,33655.25,17809.52,275,Supplier C,Active
+32,Beauty Product 032,Beauty,UrbanLeaf,5003.38,3623.1,124,Supplier A,Active
+33,Sports Product 033,Sports,Aster,2455.9,1480.71,241,Supplier A,Active
+34,Electronics Product 034,Electronics,UrbanLeaf,43406.86,35238.86,208,Supplier D,Discontinued
+35,Sports Product 035,Sports,BrightWay,34040.16,18935.88,330,Supplier A,Active
+36,Sports Product 036,Sports,Nova,24127.87,17313.04,467,Supplier B,Discontinued
+37,Beauty Product 037,Beauty,BluePeak,42033.06,19480.04,203,Supplier D,Active
+38,Books Product 038,Books,DailyNest,39465.64,17894.86,308,Supplier A,Active
+39,Books Product 039,Books,DailyNest,20499.73,14089.17,252,Supplier B,Discontinued
+40,Books Product 040,Books,UrbanLeaf,8756.42,4305.35,374,Supplier D,Active
+41,Beauty Product 041,Beauty,BrightWay,731.39,420.35,290,Supplier B,Active
+42,Grocery Product 042,Grocery,Nova,37231.67,23852.61,205,Supplier A,Active
+43,Beauty Product 043,Beauty,Nova,21537.17,17149.09,133,Supplier D,Active
+44,Toys Product 044,Toys,BrightWay,33943.43,27256.33,298,Supplier E,Active
+45,Books Product 045,Books,Nova,29450.04,20801.28,341,Supplier A,Discontinued
+46,Books Product 046,Books,Aster,7270.45,5117.29,394,Supplier C,Active
+47,Books Product 047,Books,UrbanLeaf,16602.09,8827.57,244,Supplier B,Discontinued
+48,Fashion Product 048,Fashion,CorePlus,18770.88,12261.45,387,Supplier E,Active
+49,Sports Product 049,Sports,BluePeak,30647.03,20547.34,41,Supplier E,Discontinued
+50,Fashion Product 050,Fashion,Nova,3605.89,2375.35,424,Supplier E,Active
+51,Beauty Product 051,Beauty,CorePlus,7486.88,5736.15,59,Supplier B,Discontinued
+52,Home Product 052,Home & Kitchen,Nova,40460.03,24875.98,232,Supplier B,Discontinued
+53,Toys Product 053,Toys,Aster,25419.18,16694.17,413,Supplier C,Active
+54,Grocery Product 054,Grocery,UrbanLeaf,11524.38,5198.83,296,Supplier A,Active
+55,Grocery Product 055,Grocery,Nova,15568.69,7373.19,478,Supplier A,Discontinued
+56,Electronics Product 056,Electronics,UrbanLeaf,12989.66,6710.37,392,Supplier D,Active
+57,Grocery Product 057,Grocery,CorePlus,20238.77,15975.12,192,Supplier A,Active
+58,Fashion Product 058,Fashion,CorePlus,5425.75,4434.75,270,Supplier B,Active
+59,Electronics Product 059,Electronics,CorePlus,34052.21,27651.81,344,Supplier E,Discontinued
+60,Grocery Product 060,Grocery,BrightWay,37068.71,20075.65,79,Supplier C,Active
+61,Home Product 061,Home & Kitchen,DailyNest,1545.59,1073.06,392,Supplier A,Active
+62,Sports Product 062,Sports,CorePlus,3120.43,2089.94,306,Supplier A,Active
+63,Electronics Product 063,Electronics,UrbanLeaf,18161.12,9747.17,386,Supplier A,Active
+64,Books Product 064,Books,DailyNest,10613.09,8374.44,163,Supplier E,Active
+65,Sports Product 065,Sports,Aster,13648.52,6865.29,266,Supplier B,Discontinued
+66,Books Product 066,Books,DailyNest,12453.69,8169.44,450,Supplier B,Discontinued
+67,Toys Product 067,Toys,Aster,2204.14,1272.74,343,Supplier D,Active
+68,Grocery Product 068,Grocery,UrbanLeaf,18430.25,10338.61,386,Supplier E,Discontinued
+69,Sports Product 069,Sports,Aster,38235.26,21460.4,73,Supplier D,Active
+70,Grocery Product 070,Grocery,UrbanLeaf,43553.57,28579.68,198,Supplier B,Active
+71,Sports Product 071,Sports,CorePlus,14928.14,7154.4,433,Supplier C,Active
+72,Sports Product 072,Sports,DailyNest,2413.05,1422.62,308,Supplier A,Active
+73,Sports Product 073,Sports,Aster,36228.62,24179.2,286,Supplier B,Discontinued
+74,Sports Product 074,Sports,Nova,39139.25,22434.49,108,Supplier B,Active
+75,Toys Product 075,Toys,Aster,41158.33,29114.65,104,Supplier D,Active
+76,Fashion Product 076,Fashion,DailyNest,34920.35,20632.51,332,Supplier C,Active
+77,Books Product 077,Books,CorePlus,16247.4,12618.39,50,Supplier D,Active
+78,Sports Product 078,Sports,DailyNest,16744.02,10099.23,442,Supplier B,Active
+79,Electronics Product 079,Electronics,DailyNest,11808.02,9397.54,368,Supplier D,Active
+80,Beauty Product 080,Beauty,DailyNest,8908.21,4766.84,426,Supplier B,Discontinued
+81,Fashion Product 081,Fashion,Aster,11653.23,8786.41,328,Supplier D,Discontinued
+82,Beauty Product 082,Beauty,UrbanLeaf,33001.21,19150.77,368,Supplier E,Discontinued
+83,Beauty Product 083,Beauty,Aster,41268.7,26849.03,490,Supplier A,Active
+84,Home Product 084,Home & Kitchen,BluePeak,42538.89,29659.81,3,Supplier D,Active
+85,Sports Product 085,Sports,UrbanLeaf,3150.83,1593.94,258,Supplier D,Active
+86,Electronics Product 086,Electronics,DailyNest,27840.42,19396.4,467,Supplier D,Discontinued
+87,Electronics Product 087,Electronics,Nova,395.9,258.96,8,Supplier E,Active
+88,Books Product 088,Books,Aster,868.72,652.29,220,Supplier B,Active
+89,Home Product 089,Home & Kitchen,DailyNest,23644.43,12748.09,269,Supplier C,Active
+90,Books Product 090,Books,CorePlus,35792.44,17153.07,235,Supplier E,Active
+91,Sports Product 091,Sports,Nova,13568.16,10262.73,334,Supplier A,Active
+92,Grocery Product 092,Grocery,Nova,17128.33,11210.48,326,Supplier A,Active
+93,Home Product 093,Home & Kitchen,BluePeak,22543.14,13763.64,169,Supplier E,Active
+94,Electronics Product 094,Electronics,Aster,10415.75,8160.44,454,Supplier E,Discontinued
+95,Books Product 095,Books,BrightWay,2189.68,1045.59,460,Supplier E,Active
+96,Beauty Product 096,Beauty,UrbanLeaf,41801.54,23674.69,300,Supplier B,Discontinued
+97,Home Product 097,Home & Kitchen,DailyNest,13536.83,8916.23,427,Supplier D,Active
+98,Grocery Product 098,Grocery,Aster,34026.61,17073.93,370,Supplier A,Active
+99,Electronics Product 099,Electronics,Nova,4485.19,2403.58,174,Supplier E,Discontinued
+100,Fashion Product 100,Fashion,CorePlus,1429.22,787.69,251,Supplier B,Active
+101,Grocery Product 101,Grocery,Aster,19489.4,13671.56,194,Supplier A,Active
+102,Sports Product 102,Sports,UrbanLeaf,32118.29,15428.15,194,Supplier B,Discontinued
+103,Fashion Product 103,Fashion,BrightWay,16294.8,7884.44,227,Supplier C,Active
+104,Home Product 104,Home & Kitchen,CorePlus,6048.7,3141.3,285,Supplier E,Discontinued
+105,Home Product 105,Home & Kitchen,Nova,1278.19,742.56,305,Supplier E,Active
+106,Grocery Product 106,Grocery,BluePeak,653.11,393.9,43,Supplier E,Active
+107,Beauty Product 107,Beauty,BrightWay,30870.37,15827.72,154,Supplier C,Discontinued
+108,Beauty Product 108,Beauty,CorePlus,2939.76,1795.69,153,Supplier D,Active
+109,Fashion Product 109,Fashion,Aster,11400.57,6170.43,253,Supplier E,Active
+110,Toys Product 110,Toys,CorePlus,4902.17,2758.57,170,Supplier E,Discontinued
+111,Fashion Product 111,Fashion,BluePeak,19865.45,12104.57,440,Supplier E,Active
+112,Books Product 112,Books,UrbanLeaf,14497.19,11604.9,245,Supplier C,Active
+113,Grocery Product 113,Grocery,Aster,43595.73,24319.26,324,Supplier D,Active
+114,Fashion Product 114,Fashion,CorePlus,16984.26,12773.91,186,Supplier A,Active
+115,Beauty Product 115,Beauty,Aster,30708.58,20069.18,236,Supplier B,Discontinued
+116,Books Product 116,Books,BluePeak,37424.38,17798.61,407,Supplier D,Discontinued
+117,Beauty Product 117,Beauty,Aster,28536.42,15396.76,78,Supplier D,Discontinued
+118,Home Product 118,Home & Kitchen,DailyNest,20262.54,13600.94,205,Supplier E,Discontinued
+119,Electronics Product 119,Electronics,BluePeak,35603.16,20757.56,274,Supplier E,Active
+120,Home Product 120,Home & Kitchen,BrightWay,34625.81,24006.51,85,Supplier E,Active
+121,Grocery Product 121,Grocery,BluePeak,43509.79,24917.66,220,Supplier A,Active
+122,Home Product 122,Home & Kitchen,DailyNest,11716.61,7486.33,285,Supplier E,Active
+123,Toys Product 123,Toys,Aster,16897.34,10498.88,301,Supplier E,Active
+124,Fashion Product 124,Fashion,BrightWay,44896.85,28223.3,212,Supplier A,Active
+125,Beauty Product 125,Beauty,BluePeak,15739.3,9080.55,105,Supplier E,Discontinued
+126,Fashion Product 126,Fashion,Aster,21479.17,13147.86,231,Supplier C,Active
+127,Books Product 127,Books,Nova,2105.31,1501.06,434,Supplier C,Active
+128,Beauty Product 128,Beauty,DailyNest,41853.45,30301.11,89,Supplier E,Active
+129,Fashion Product 129,Fashion,UrbanLeaf,25236.78,20306.3,408,Supplier D,Active
+130,Beauty Product 130,Beauty,Nova,28857.14,17599.67,377,Supplier E,Active
+131,Toys Product 131,Toys,Aster,26689.51,15850.08,109,Supplier B,Active
+132,Home Product 132,Home & Kitchen,DailyNest,26022.5,19407.99,95,Supplier C,Active
+133,Sports Product 133,Sports,BluePeak,20643.47,11293.44,250,Supplier E,Active
+134,Grocery Product 134,Grocery,BrightWay,27547.36,18379.37,180,Supplier D,Active
+135,Books Product 135,Books,Aster,41348.77,27635.96,68,Supplier C,Active
+136,Sports Product 136,Sports,Aster,13810.87,7150.25,72,Supplier E,Discontinued
+137,Grocery Product 137,Grocery,CorePlus,26879.12,17812.21,95,Supplier D,Active
+138,Beauty Product 138,Beauty,BrightWay,22084.42,11084.39,431,Supplier D,Active
+139,Fashion Product 139,Fashion,UrbanLeaf,42837.66,26957.97,417,Supplier D,Discontinued
+140,Grocery Product 140,Grocery,BluePeak,30842.57,18622.23,227,Supplier D,Active
+141,Home Product 141,Home & Kitchen,UrbanLeaf,25485.93,18973.66,149,Supplier A,Active
+142,Sports Product 142,Sports,CorePlus,24238.16,12415.69,289,Supplier D,Active
+143,Home Product 143,Home & Kitchen,BrightWay,12127.48,7894.37,277,Supplier A,Discontinued
+144,Sports Product 144,Sports,BluePeak,44540.92,21731.25,334,Supplier B,Active
+145,Electronics Product 145,Electronics,BluePeak,20292.43,11748.78,44,Supplier D,Active
+146,Sports Product 146,Sports,Aster,9522.74,6884.15,179,Supplier E,Discontinued
+147,Beauty Product 147,Beauty,BluePeak,27764.81,20556.91,105,Supplier A,Active
+148,Books Product 148,Books,Aster,26898.51,13780.1,149,Supplier C,Active
+149,Home Product 149,Home & Kitchen,CorePlus,6187.08,4501.32,470,Supplier A,Active
+150,Beauty Product 150,Beauty,UrbanLeaf,31593.75,15768.3,364,Supplier C,Active
+151,Grocery Product 151,Grocery,BrightWay,22076.19,14650.81,321,Supplier D,Discontinued
+152,Toys Product 152,Toys,BluePeak,3489.76,2596.39,47,Supplier D,Active
+153,Fashion Product 153,Fashion,DailyNest,20515.29,12936.46,1,Supplier A,Discontinued
+154,Fashion Product 154,Fashion,CorePlus,38269.62,28487.94,111,Supplier D,Active
+155,Toys Product 155,Toys,BrightWay,12156.57,9196.29,280,Supplier E,Active
+156,Toys Product 156,Toys,BluePeak,35494.62,27715.52,24,Supplier A,Active
+157,Toys Product 157,Toys,UrbanLeaf,830.05,658.97,225,Supplier D,Active
+158,Grocery Product 158,Grocery,UrbanLeaf,9183.29,6472.19,451,Supplier C,Active
+159,Books Product 159,Books,Nova,4290.06,2502.65,190,Supplier B,Active
+160,Grocery Product 160,Grocery,BluePeak,28189.26,20257.24,119,Supplier D,Active
+161,Home Product 161,Home & Kitchen,UrbanLeaf,147.78,92.57,303,Supplier B,Discontinued
+162,Electronics Product 162,Electronics,Nova,461.02,266.06,440,Supplier D,Active
+163,Toys Product 163,Toys,Aster,3279.26,1940.46,412,Supplier A,Active
+164,Fashion Product 164,Fashion,CorePlus,16602.89,9309.65,396,Supplier B,Active
+165,Home Product 165,Home & Kitchen,Aster,23919.35,10838.71,84,Supplier D,Active
+166,Sports Product 166,Sports,CorePlus,28300.42,14320.25,315,Supplier D,Active
+167,Home Product 167,Home & Kitchen,Nova,40356.92,20251.3,301,Supplier D,Active
+168,Grocery Product 168,Grocery,BrightWay,14220.53,7134.97,330,Supplier A,Active
+169,Books Product 169,Books,BluePeak,35075.52,24744.94,433,Supplier C,Active
+170,Sports Product 170,Sports,Nova,33677.93,18837.77,401,Supplier B,Discontinued
+171,Grocery Product 171,Grocery,DailyNest,5161.3,3276.63,36,Supplier E,Active
+172,Fashion Product 172,Fashion,BluePeak,42033.14,20967.55,429,Supplier E,Discontinued
+173,Fashion Product 173,Fashion,CorePlus,24630.94,12658.46,488,Supplier A,Active
+174,Home Product 174,Home & Kitchen,Nova,718.34,380.59,485,Supplier D,Active
+175,Grocery Product 175,Grocery,Aster,19117.95,11448.64,274,Supplier E,Active
+176,Books Product 176,Books,UrbanLeaf,3852.59,1846.31,498,Supplier B,Active
+177,Grocery Product 177,Grocery,Aster,26430.62,19357.6,348,Supplier A,Active
+178,Grocery Product 178,Grocery,Nova,32874.86,25089.87,125,Supplier A,Discontinued
+179,Home Product 179,Home & Kitchen,BrightWay,20455.85,13813.18,341,Supplier B,Active
+180,Electronics Product 180,Electronics,UrbanLeaf,31884.45,22623.77,254,Supplier C,Active
+181,Beauty Product 181,Beauty,BluePeak,16796.31,12217.93,137,Supplier A,Active
+182,Fashion Product 182,Fashion,Nova,36338.95,20009.42,134,Supplier E,Active
+183,Toys Product 183,Toys,CorePlus,20537.84,11978.61,439,Supplier E,Active
+184,Fashion Product 184,Fashion,DailyNest,7162.38,5272.46,345,Supplier A,Active
+185,Electronics Product 185,Electronics,UrbanLeaf,2076.35,1597.3,23,Supplier D,Active
+186,Grocery Product 186,Grocery,BluePeak,41418.09,21380.66,18,Supplier E,Discontinued
+187,Sports Product 187,Sports,Aster,14548.23,8787.35,163,Supplier C,Active
+188,Fashion Product 188,Fashion,Nova,5460.22,3817.41,91,Supplier B,Active
+189,Grocery Product 189,Grocery,BrightWay,3193.87,1986.86,396,Supplier C,Active
+190,Home Product 190,Home & Kitchen,UrbanLeaf,24933.36,11293.53,149,Supplier E,Active
+191,Sports Product 191,Sports,CorePlus,20929.77,14000.46,395,Supplier B,Active
+192,Beauty Product 192,Beauty,UrbanLeaf,385.37,231.88,277,Supplier C,Active
+193,Fashion Product 193,Fashion,BluePeak,164.65,114.14,377,Supplier C,Active
+194,Sports Product 194,Sports,CorePlus,23888.2,12854.77,492,Supplier A,Active
+195,Books Product 195,Books,BluePeak,4275.99,3381.76,266,Supplier D,Active
+196,Toys Product 196,Toys,Nova,43857.48,21113.6,258,Supplier B,Discontinued
+197,Home Product 197,Home & Kitchen,Aster,26675.71,12618.8,493,Supplier B,Active
+198,Books Product 198,Books,BluePeak,11817.75,6695.39,201,Supplier C,Active
+199,Toys Product 199,Toys,UrbanLeaf,12310.09,5879.72,69,Supplier E,Active
+200,Beauty Product 200,Beauty,BrightWay,4843.14,2985.02,208,Supplier A,Active
+201,Sports Product 201,Sports,BluePeak,20390.53,12671.46,61,Supplier A,Active
+202,Books Product 202,Books,Nova,37204.59,26335.08,110,Supplier C,Active
+203,Home Product 203,Home & Kitchen,CorePlus,32030.68,25890.65,262,Supplier A,Active
+204,Books Product 204,Books,CorePlus,36921.84,18990.05,437,Supplier D,Active
+205,Home Product 205,Home & Kitchen,UrbanLeaf,20845.2,15580.57,62,Supplier A,Active
+206,Sports Product 206,Sports,BrightWay,5968.24,4504.58,351,Supplier A,Active
+207,Home Product 207,Home & Kitchen,Aster,1077.85,510.74,227,Supplier B,Active
+208,Fashion Product 208,Fashion,Nova,5600.61,4472.89,86,Supplier E,Discontinued
+209,Grocery Product 209,Grocery,CorePlus,22375.57,13237.61,88,Supplier C,Active
+210,Beauty Product 210,Beauty,UrbanLeaf,12445.96,7654.57,17,Supplier E,Active
+211,Books Product 211,Books,CorePlus,22499.73,17473.92,31,Supplier A,Active
+212,Grocery Product 212,Grocery,BluePeak,6261.03,3279.52,269,Supplier B,Active
+213,Grocery Product 213,Grocery,DailyNest,35207.8,20521.62,400,Supplier D,Active
+214,Fashion Product 214,Fashion,BrightWay,17537.71,9058.79,305,Supplier B,Active
+215,Books Product 215,Books,DailyNest,2729.8,2229.88,183,Supplier E,Active
+216,Beauty Product 216,Beauty,BrightWay,4595.13,3184.61,273,Supplier A,Active
+217,Grocery Product 217,Grocery,BluePeak,16030.08,12191.07,88,Supplier B,Active
+218,Fashion Product 218,Fashion,DailyNest,36298.65,25703.87,14,Supplier C,Active
+219,Sports Product 219,Sports,CorePlus,37667.52,28244.93,277,Supplier C,Active
+220,Toys Product 220,Toys,DailyNest,1803.61,849.11,112,Supplier A,Discontinued
+221,Electronics Product 221,Electronics,BluePeak,14994.19,10154.51,66,Supplier C,Active
+222,Fashion Product 222,Fashion,Aster,2773.12,1399.46,469,Supplier B,Active
+223,Fashion Product 223,Fashion,Aster,43229.05,25428.56,202,Supplier E,Active
+224,Fashion Product 224,Fashion,UrbanLeaf,13648.56,6830.93,374,Supplier D,Discontinued
+225,Fashion Product 225,Fashion,Aster,7920.87,6403.51,455,Supplier E,Active
+226,Sports Product 226,Sports,CorePlus,29982.04,22526.95,157,Supplier C,Active
+227,Beauty Product 227,Beauty,DailyNest,32824.24,26293.91,200,Supplier E,Active
+228,Beauty Product 228,Beauty,DailyNest,27146.85,21467.3,113,Supplier E,Active
+229,Toys Product 229,Toys,UrbanLeaf,6414.03,4655.16,177,Supplier C,Active
+230,Home Product 230,Home & Kitchen,Aster,36992.44,25817.36,453,Supplier C,Discontinued
+231,Electronics Product 231,Electronics,Nova,12007.3,6511.92,179,Supplier C,Active
+232,Electronics Product 232,Electronics,CorePlus,2260.87,1383.97,496,Supplier B,Discontinued
+233,Toys Product 233,Toys,CorePlus,39691.38,23019.24,51,Supplier D,Active
+234,Beauty Product 234,Beauty,Nova,20362.26,15184.18,150,Supplier A,Active
+235,Books Product 235,Books,UrbanLeaf,42829.58,20449.16,454,Supplier D,Active
+236,Home Product 236,Home & Kitchen,Nova,24661.92,19293.17,173,Supplier E,Discontinued
+237,Electronics Product 237,Electronics,DailyNest,19465.85,13467.35,455,Supplier D,Active
+238,Electronics Product 238,Electronics,UrbanLeaf,4645.58,2443.82,209,Supplier E,Active
+239,Books Product 239,Books,CorePlus,13452.59,6531.08,292,Supplier E,Discontinued
+240,Beauty Product 240,Beauty,Nova,2546.32,1149.44,150,Supplier E,Discontinued
+241,Sports Product 241,Sports,Aster,4453.81,2345.25,149,Supplier A,Discontinued
+242,Home Product 242,Home & Kitchen,CorePlus,13944.38,8325.67,458,Supplier C,Active
+243,Grocery Product 243,Grocery,BrightWay,8400.35,6532.38,95,Supplier D,Active
+244,Books Product 244,Books,BluePeak,19843.78,10863.64,137,Supplier E,Active
+245,Beauty Product 245,Beauty,Nova,33875.11,23609.71,342,Supplier C,Discontinued
+246,Sports Product 246,Sports,BluePeak,24956.28,18994.1,267,Supplier D,Discontinued
+247,Sports Product 247,Sports,BluePeak,21483.65,10295.25,365,Supplier A,Active
+248,Home Product 248,Home & Kitchen,UrbanLeaf,42721.49,26322.62,497,Supplier B,Active
+249,Beauty Product 249,Beauty,Aster,2015.19,965.27,222,Supplier B,Active
+250,Books Product 250,Books,BluePeak,14456.07,10394.32,34,Supplier A,Discontinued
+251,Grocery Product 251,Grocery,DailyNest,24886.79,19086.95,234,Supplier A,Discontinued
+252,Home Product 252,Home & Kitchen,DailyNest,18707.88,9444.37,298,Supplier A,Active
+253,Home Product 253,Home & Kitchen,BrightWay,35379.76,27276.59,449,Supplier D,Active
+254,Grocery Product 254,Grocery,CorePlus,29499.62,19518.38,19,Supplier B,Active
+255,Grocery Product 255,Grocery,Aster,6558.13,4428.07,205,Supplier A,Discontinued
+256,Fashion Product 256,Fashion,CorePlus,31103.76,14563.95,471,Supplier C,Active
+257,Electronics Product 257,Electronics,BrightWay,15269.52,11355.2,143,Supplier D,Active
+258,Sports Product 258,Sports,CorePlus,6133.04,4970.59,396,Supplier C,Active
+259,Grocery Product 259,Grocery,CorePlus,27263.17,13169.1,108,Supplier D,Discontinued
+260,Fashion Product 260,Fashion,UrbanLeaf,36963.5,23680.66,33,Supplier C,Discontinued
+261,Beauty Product 261,Beauty,DailyNest,35144.97,22632.87,14,Supplier B,Active
+262,Sports Product 262,Sports,CorePlus,37680.09,20434.34,25,Supplier C,Active
+263,Books Product 263,Books,CorePlus,16638.37,10345.09,325,Supplier A,Active
+264,Sports Product 264,Sports,UrbanLeaf,16823.13,11268.07,491,Supplier D,Active
+265,Fashion Product 265,Fashion,Aster,7440.92,5811.08,425,Supplier A,Active
+266,Electronics Product 266,Electronics,DailyNest,17456.19,8907.47,399,Supplier B,Active
+267,Sports Product 267,Sports,CorePlus,30528.19,16777.1,262,Supplier A,Active
+268,Toys Product 268,Toys,DailyNest,41026.95,28289.21,410,Supplier A,Active
+269,Books Product 269,Books,Aster,27414.25,21901.57,495,Supplier C,Discontinued
+270,Grocery Product 270,Grocery,UrbanLeaf,38336.07,23761.82,238,Supplier C,Discontinued
+271,Home Product 271,Home & Kitchen,BluePeak,428.91,351.62,429,Supplier C,Active
+272,Books Product 272,Books,BrightWay,30829.83,19368.63,141,Supplier C,Active
+273,Books Product 273,Books,Aster,29559.43,23715.81,152,Supplier B,Active
+274,Sports Product 274,Sports,BluePeak,40495.85,30291.26,414,Supplier E,Discontinued
+275,Fashion Product 275,Fashion,Aster,30665.61,21983.4,254,Supplier C,Active
+276,Grocery Product 276,Grocery,DailyNest,18265.89,13198.77,362,Supplier E,Active
+277,Fashion Product 277,Fashion,DailyNest,32721.82,17416.99,326,Supplier D,Active
+278,Books Product 278,Books,DailyNest,38059.17,28964.41,92,Supplier C,Active
+279,Toys Product 279,Toys,BluePeak,5843.82,3188.98,286,Supplier B,Active
+280,Home Product 280,Home & Kitchen,BluePeak,10078.4,5368.07,157,Supplier D,Active
+281,Fashion Product 281,Fashion,BluePeak,11798.37,6592.92,60,Supplier D,Active
+282,Home Product 282,Home & Kitchen,Nova,21302.14,11119.32,444,Supplier D,Active
+283,Grocery Product 283,Grocery,UrbanLeaf,2526.44,1935.43,102,Supplier C,Discontinued
+284,Toys Product 284,Toys,UrbanLeaf,6529.91,5022.06,398,Supplier A,Discontinued
+285,Fashion Product 285,Fashion,Aster,28433.0,14655.08,29,Supplier A,Discontinued
+286,Books Product 286,Books,DailyNest,9500.48,6994.35,391,Supplier B,Discontinued
+287,Home Product 287,Home & Kitchen,CorePlus,5909.46,3607.57,206,Supplier D,Discontinued
+288,Grocery Product 288,Grocery,Aster,308.65,199.85,191,Supplier A,Active
+289,Sports Product 289,Sports,Aster,903.45,407.93,127,Supplier B,Active
+290,Books Product 290,Books,DailyNest,5888.12,3485.26,156,Supplier B,Active
+291,Electronics Product 291,Electronics,Aster,13488.58,7521.32,266,Supplier E,Active
+292,Grocery Product 292,Grocery,BrightWay,39969.92,32708.38,461,Supplier D,Active
+293,Sports Product 293,Sports,BluePeak,7502.43,5893.54,206,Supplier A,Active
+294,Sports Product 294,Sports,Aster,32749.61,16327.19,11,Supplier E,Active
+295,Home Product 295,Home & Kitchen,Nova,16559.32,11437.52,192,Supplier C,Active
+296,Electronics Product 296,Electronics,Nova,29822.11,20631.53,24,Supplier A,Discontinued
+297,Toys Product 297,Toys,CorePlus,17172.77,11205.14,359,Supplier B,Active
+298,Electronics Product 298,Electronics,Aster,13619.43,9463.0,266,Supplier C,Active
+299,Grocery Product 299,Grocery,Aster,37396.14,18279.92,316,Supplier A,Active
+300,Home Product 300,Home & Kitchen,DailyNest,35335.51,22408.49,102,Supplier C,Active
